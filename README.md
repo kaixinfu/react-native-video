@@ -1,20 +1,42 @@
-# react-native-videoDemo  <br/>
-使用react native制作的一款网络音乐播放器 <br/>
-基于第三方库 [ react-native-video ]( https://github.com/react-native-community/react-native-video ) 设计<br/>
-"react-native-video": "^1.0.0"   <br/>
+# native-native-video
 
- - [x] 播放/暂停<br/>
- - [x] 快进/快退<br/>
- - [x] 循环模式(单曲,随机,列表)<br/>
- - [x] 歌词同步<br/>
- - [x] 进度条显示<br/>
- - [x] 播放时间<br/>
- - [x] 基本旋转动画<br/>
- - [ ] 动画bug<br/>
- - [ ] 安卓就是个残废,亲生的和捡来的差别太大了<br/>
- - [ ] 其他<br/>
+## Contains
 
-关于Android该bug小弟实在无力解决,望知情者告知,谢谢:
-![image](https://github.com/pheromone/react-native-videoDemo/blob/master/2222.png) <br/>
- #iOS效果截图:<br/>
- ![image](https://github.com/pheromone/react-native-videoDemo/blob/master/video1.gif) <br/>
+- [x] [realm](https://realm.io)
+- [x] [mobx](https://mobx.js.org/)
+- [x] [Babel](https://babeljs.io/)
+- [x] [react-native](http://reactnative.cn/)
+- [x] [react-native-video](https://www.npmjs.com/package/react-native-video)
+- [x] [native-base](http://nativebase.io/)
+
+## Install
+
+`git clone git@github.com:liukaixin01/native-native-video.git`
+
+`npm install`
+
+## realm
+
+- 1.跨平台,Realm 支持 iOS & OS X (Objective‑C & Swift) & Android。我们可以在这些平台上共享Realm数据库文件，并且上层逻辑可以不用任何改动的情况下实现移植。
+
+- 2.高级,Ream支持加密，格式化查询，易于移植，支持JSON，流式api，数据变更通知等高级特性
+
+- 3.可视化,Realm 还提供了一个轻量级的数据库查看工具Mac版Realm Browser方便查看数据,Mac app store下载即可
+
+
+## mobx
+
+>   `npm install mobx mobx-react --save`
+
+>    `npm install babel-plugin-transform-decorators-legacy babel-preset-react-native-stage-0 --save`
+
+>	`.babelrc文件 ---> {
+>		"presets": ["react-native"],
+>		"plugins": ["transform-decorators-legacy"]
+>		}`
+
+## Dev
+
+> ios: `react-native run-ios`
+
+> android: `react-native run-android`
