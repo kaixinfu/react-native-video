@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "video.app"
-               BlueprintName = "video"
-               ReferencedContainer = "container:video.xcodeproj">
+               BuildableName = "STvideo.app"
+               BlueprintName = "STvideo"
+               ReferencedContainer = "container:STvideo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "videoTests.xctest"
-               BlueprintName = "videoTests"
-               ReferencedContainer = "container:video.xcodeproj">
+               BuildableName = "STvideoTests.xctest"
+               BlueprintName = "STvideoTests"
+               ReferencedContainer = "container:STvideo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "videoTests.xctest"
-               BlueprintName = "videoTests"
-               ReferencedContainer = "container:video.xcodeproj">
+               BuildableName = "STvideoTests.xctest"
+               BlueprintName = "STvideoTests"
+               ReferencedContainer = "container:STvideo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "video.app"
-            BlueprintName = "video"
-            ReferencedContainer = "container:video.xcodeproj">
+            BuildableName = "STvideo.app"
+            BlueprintName = "STvideo"
+            ReferencedContainer = "container:STvideo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "video.app"
-            BlueprintName = "video"
-            ReferencedContainer = "container:video.xcodeproj">
+            BuildableName = "STvideo.app"
+            BlueprintName = "STvideo"
+            ReferencedContainer = "container:STvideo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "video.app"
-            BlueprintName = "video"
-            ReferencedContainer = "container:video.xcodeproj">
+            BuildableName = "STvideo.app"
+            BlueprintName = "STvideo"
+            ReferencedContainer = "container:STvideo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

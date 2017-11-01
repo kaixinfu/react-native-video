@@ -1,4 +1,4 @@
-package com.video;
+package com.stvideo;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "video";
+        return "STvideo";
     }
 }
