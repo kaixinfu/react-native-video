@@ -13,4 +13,4 @@ import {
 } from 'react-native';
 import Main from './main'
 
-AppRegistry.registerComponent('STvideo', () => Main);
+AppRegistry.registerComponent('video', () => Main);
